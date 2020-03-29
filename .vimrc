@@ -39,4 +39,4 @@ set hlsearch " highlight matches
 """" Miscellaneous settings that might be worth enabling
 
 set cursorline " highlight current line
-set background=dark " configure Vim to use brighter color
+set background=dark " configure Vim to use darker color
